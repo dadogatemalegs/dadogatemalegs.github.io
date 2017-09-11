@@ -6,14 +6,15 @@
     </head>
     <body> 
       <left><h1>Vladi'slav Pevcov</h1></left>
-      <left><img alt="This beautiful person is Me" width="15%" src="me.jpg"></left>
+Minddesroyer and da foodlover    
+<br/><br/><left><img alt="This beautiful person is Me" width="15%" src="me.jpg"></left>
       <br/>
       <h2>Contacts:</h2>
-      Youtube <a href=https://www.youtube.com/user/MisterPevc>YouTube</a>
+      <a href=https://www.youtube.com/user/MisterPevc>YouTube</a>
       <br/>
       <a href=https://github.com/dadogatemalegs>GitHub</a>
       <br/>
-      Phone numba<b>+79160861836</b>
+      Phone numba:<b>+79160861836</b>
       <br/>
       E-mail: <i>vyupevtsov@edu.hse.ru</i>
     </body>
